@@ -1,0 +1,3 @@
+store/encrypt/EncryptIndexStore.class
+store/plugin/IndexEncryptionPlugin.class
+store/encrypt/EncryptFsDirectoryService.class
